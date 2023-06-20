@@ -42,6 +42,8 @@ collaborate (see also: git help workflows)
 mkdir 	<folder_name> 	Create a folder in the directory
 
 cd 	<folder_name> 	cd stands for "CHANGE DIRECTORY"
+
+
 --------------------------------------------------------------------------------------
 Adding files
 
@@ -84,3 +86,5 @@ git config --help > Open a git config page on internet
 
 git help <command> > It opens a page on internet explaining about the command
 --------------------------------------------------------------------------------------
+Visualizing the difference in the file now and how it was at your last commit
+git diff	- Must save the archive before use this command
