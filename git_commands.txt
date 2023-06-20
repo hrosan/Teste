@@ -38,5 +38,20 @@ collaborate (see also: git help workflows)
    pull      Fetch from and integrate with another repository or a local branch
    push      Update remote refs along with associated objects
 
+--------------------------------------------------------------------------------------
 mkdir 	<folder_name> 	Create a folder in the directory
 cd 	<folder_name> 	cd stands for "CHANGE DIRECTORY"
+--------------------------------------------------------------------------------------
+Adding files
+git add <file name).type  - Add the <file>.type to commit
+git add . 		- Add all files inside the folder to commit
+--------------------------------------------------------------------------------------
+git commit -m "your commit here" - Make a commit and save all changes over the archives
+-m > Allows you to specify a commit message without opening a text editor
+--------------------------------------------------------------------------------------
+Linking the local host/files with the remote host
+git config --global user.username "your_username_here" - Link your local host with the github host
+git remote add origin <your_host_link_here> - Link your files with the github host
+--------------------------------------------------------------------------------------
+Pushing the files to Github
+git push origin master - Uploading the commited files to the Github
