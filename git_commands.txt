@@ -40,18 +40,39 @@ collaborate (see also: git help workflows)
 
 --------------------------------------------------------------------------------------
 mkdir 	<folder_name> 	Create a folder in the directory
+
 cd 	<folder_name> 	cd stands for "CHANGE DIRECTORY"
 --------------------------------------------------------------------------------------
 Adding files
-git add <file name).type  - Add the <file>.type to commit
+
+git add <file_name).type  - Add the <file>.type to commit
+
 git add . 		- Add all files inside the folder to commit
+
+git add -p <file_name>.type - Add a partial change on the document
+
+git add -u > command updates the Git index (staging area) to reflect changes 
+		made to existing files that are already tracked by Git.
 --------------------------------------------------------------------------------------
 git commit -m "your commit here" - Make a commit and save all changes over the archives
+
 -m > Allows you to specify a commit message without opening a text editor
 --------------------------------------------------------------------------------------
 Linking the local host/files with the remote host
+
 git config --global user.username "your_username_here" - Link your local host with the github host
+
 git remote add origin <your_host_link_here> - Link your files with the github host
 --------------------------------------------------------------------------------------
 Pushing the files to Github
+
 git push origin master - Uploading the commited files to the Github
+--------------------------------------------------------------------------------------
+Getting help with git
+
+git help config > Open a git config page on internet
+
+git config --help > Open a git config page on internet
+
+git help <command> > It opens a page on internet explaining about the command
+--------------------------------------------------------------------------------------
