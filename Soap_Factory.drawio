@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-21T12:49:47.497Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="th6cgx6m5jijLR0G-MjX" version="21.5.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-06-21T15:38:08.385Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="CAFQySA44Zim0cSIaTxo" version="21.5.0" type="github" pages="5">
   <diagram name="General_Process" id="p2EKBca3jFjb_jPHsvdk">
     <mxGraphModel dx="920" dy="427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -126,7 +126,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CJUkQILBHK8X52ML0pvP" name="Mixture_Process">
-    <mxGraphModel dx="1345" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1345" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -288,7 +288,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wQ0uyjCD2YMUPdEgQwBp" name="Extrusion_Process">
-    <mxGraphModel dx="1028" dy="2816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1249" dy="2998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -333,7 +333,7 @@
         <mxCell id="5iA0wLzQhxuqIqqLRclW-10" value="Cleaning" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="710" y="-2270" width="100" height="100" as="geometry" />
         </mxCell>
-        <UserObject label="End&lt;br&gt;[Packing]" link="data:page/id,ojCG2LM4F6F6UpbeBInJ" id="5iA0wLzQhxuqIqqLRclW-14">
+        <UserObject label="End&lt;br&gt;[Cutting and Shaping]" id="5iA0wLzQhxuqIqqLRclW-14">
           <mxCell style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
             <mxGeometry x="540" y="-2090" width="100" height="100" as="geometry" />
           </mxCell>
@@ -344,8 +344,72 @@
       </root>
     </mxGraphModel>
   </diagram>
+  <diagram id="IJszoZw1whNYCDOLt2iI" name="Cutting_Shaping">
+    <mxGraphModel dx="971" dy="2851" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="p5aaAd7ahVhklA_J8MNc-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p5aaAd7ahVhklA_J8MNc-1" target="p5aaAd7ahVhklA_J8MNc-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Init&lt;br&gt;[Cutting and Shaping]" link="data:page/id,wQ0uyjCD2YMUPdEgQwBp" id="p5aaAd7ahVhklA_J8MNc-1">
+          <mxCell style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+            <mxGeometry x="40" y="-2270" width="100" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="p5aaAd7ahVhklA_J8MNc-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p5aaAd7ahVhklA_J8MNc-2" target="p5aaAd7ahVhklA_J8MNc-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p5aaAd7ahVhklA_J8MNc-2" value="Transport&lt;br&gt;to Cutting machine" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="190" y="-2270" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="p5aaAd7ahVhklA_J8MNc-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p5aaAd7ahVhklA_J8MNc-6" target="p5aaAd7ahVhklA_J8MNc-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p5aaAd7ahVhklA_J8MNc-6" value="Cutting &lt;br&gt;Process" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-2270" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="p5aaAd7ahVhklA_J8MNc-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p5aaAd7ahVhklA_J8MNc-8" target="p5aaAd7ahVhklA_J8MNc-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p5aaAd7ahVhklA_J8MNc-8" value="Transport to&lt;br&gt;Shaping machine" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="500" y="-2270" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="p5aaAd7ahVhklA_J8MNc-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="p5aaAd7ahVhklA_J8MNc-10" target="p5aaAd7ahVhklA_J8MNc-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="-2150" />
+              <mxPoint x="560" y="-2150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p5aaAd7ahVhklA_J8MNc-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="p5aaAd7ahVhklA_J8MNc-10" target="p5aaAd7ahVhklA_J8MNc-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p5aaAd7ahVhklA_J8MNc-10" value="Shaping" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="660" y="-2270" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="p5aaAd7ahVhklA_J8MNc-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p5aaAd7ahVhklA_J8MNc-12" target="p5aaAd7ahVhklA_J8MNc-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p5aaAd7ahVhklA_J8MNc-12" value="Cleaning" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="510" y="-2100" width="100" height="100" as="geometry" />
+        </mxCell>
+        <UserObject label="End&lt;br&gt;[Packing]" link="data:page/id,ojCG2LM4F6F6UpbeBInJ" id="p5aaAd7ahVhklA_J8MNc-15">
+          <mxCell style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+            <mxGeometry x="660" y="-2100" width="100" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="End&lt;br&gt;[Residue]" id="p5aaAd7ahVhklA_J8MNc-16">
+          <mxCell style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+            <mxGeometry x="510" y="-1940" width="100" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="ojCG2LM4F6F6UpbeBInJ" name="Packing_Process">
-    <mxGraphModel dx="874" dy="406" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="874" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
