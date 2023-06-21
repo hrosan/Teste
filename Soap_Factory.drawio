@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-21T12:20:37.755Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ZzDejafG6bxHmNeYxG_R" version="21.5.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-06-21T12:49:47.497Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="th6cgx6m5jijLR0G-MjX" version="21.5.0" type="github" pages="4">
   <diagram name="General_Process" id="p2EKBca3jFjb_jPHsvdk">
-    <mxGraphModel dx="1589" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="920" dy="427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -44,7 +44,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ktKeQ4ZGZhspn00qjQtq-7" value="Make&lt;br&gt;Bars of soap" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="ktKeQ4ZGZhspn00qjQtq-7" value="Extrusion&lt;br&gt;Process" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="505" y="160" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ktKeQ4ZGZhspn00qjQtq-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ktKeQ4ZGZhspn00qjQtq-9" target="ktKeQ4ZGZhspn00qjQtq-11" edge="1">
@@ -117,11 +117,16 @@
         <mxCell id="ktKeQ4ZGZhspn00qjQtq-34" value="End&lt;br&gt;[Expedition]" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
           <mxGeometry x="525" y="890" width="100" height="100" as="geometry" />
         </mxCell>
+        <UserObject label="" link="data:page/id,wQ0uyjCD2YMUPdEgQwBp" id="k1yl7Hsfv7Favx5I9i0t-1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;strokeColor=#FF0000;" vertex="1" parent="1">
+            <mxGeometry x="470" y="120" width="170" height="180" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="CJUkQILBHK8X52ML0pvP" name="Mixture_Process">
-    <mxGraphModel dx="1589" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1345" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -240,9 +245,11 @@
         <mxCell id="FA6c01G_2bpZhygZwHf4-54" value="Lack of" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="190" y="702.5" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="FA6c01G_2bpZhygZwHf4-72" value="End&lt;br&gt;[Extrusion]" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
-          <mxGeometry x="80" y="862.5" width="100" height="100" as="geometry" />
-        </mxCell>
+        <UserObject label="End&lt;br&gt;[Extrusion]" link="data:page/id,wQ0uyjCD2YMUPdEgQwBp" id="FA6c01G_2bpZhygZwHf4-72">
+          <mxCell style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
+            <mxGeometry x="80" y="862.5" width="100" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="FA6c01G_2bpZhygZwHf4-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FA6c01G_2bpZhygZwHf4-80" target="FA6c01G_2bpZhygZwHf4-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -280,8 +287,65 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="wQ0uyjCD2YMUPdEgQwBp" name="Página-3">
-    <mxGraphModel dx="818" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="wQ0uyjCD2YMUPdEgQwBp" name="Extrusion_Process">
+    <mxGraphModel dx="1028" dy="2816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5iA0wLzQhxuqIqqLRclW-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5iA0wLzQhxuqIqqLRclW-1" target="5iA0wLzQhxuqIqqLRclW-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Init&lt;br&gt;[Extrusion]" link="data:page/id,CJUkQILBHK8X52ML0pvP" id="5iA0wLzQhxuqIqqLRclW-1">
+          <mxCell style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+            <mxGeometry x="40" y="-2270" width="100" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="5iA0wLzQhxuqIqqLRclW-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5iA0wLzQhxuqIqqLRclW-2" target="5iA0wLzQhxuqIqqLRclW-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5iA0wLzQhxuqIqqLRclW-2" value="Load&lt;br&gt;Extrusion Machine" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-2270" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5iA0wLzQhxuqIqqLRclW-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5iA0wLzQhxuqIqqLRclW-4" target="5iA0wLzQhxuqIqqLRclW-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5iA0wLzQhxuqIqqLRclW-4" value="Heat" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-2110" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5iA0wLzQhxuqIqqLRclW-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5iA0wLzQhxuqIqqLRclW-5" target="5iA0wLzQhxuqIqqLRclW-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5iA0wLzQhxuqIqqLRclW-5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.or;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-2255" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5iA0wLzQhxuqIqqLRclW-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5iA0wLzQhxuqIqqLRclW-8" target="5iA0wLzQhxuqIqqLRclW-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5iA0wLzQhxuqIqqLRclW-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5iA0wLzQhxuqIqqLRclW-8" target="5iA0wLzQhxuqIqqLRclW-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5iA0wLzQhxuqIqqLRclW-8" value="Extrusion&lt;br&gt;Process" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="540" y="-2270" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5iA0wLzQhxuqIqqLRclW-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5iA0wLzQhxuqIqqLRclW-10" target="5iA0wLzQhxuqIqqLRclW-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5iA0wLzQhxuqIqqLRclW-10" value="Cleaning" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="710" y="-2270" width="100" height="100" as="geometry" />
+        </mxCell>
+        <UserObject label="End&lt;br&gt;[Packing]" link="data:page/id,ojCG2LM4F6F6UpbeBInJ" id="5iA0wLzQhxuqIqqLRclW-14">
+          <mxCell style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+            <mxGeometry x="540" y="-2090" width="100" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="5iA0wLzQhxuqIqqLRclW-18" value="Residue&lt;br&gt;Keeper" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="710" y="-2090" width="100" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ojCG2LM4F6F6UpbeBInJ" name="Packing_Process">
+    <mxGraphModel dx="874" dy="406" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
