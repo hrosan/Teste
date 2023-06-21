@@ -88,3 +88,11 @@ git help <command> > It opens a page on internet explaining about the command
 --------------------------------------------------------------------------------------
 Visualizing the difference in the file now and how it was at your last commit
 git diff	- Must save the archive before use this command
+------------------------------------------------------------------------------
+Branches
+git branch <branch_name> - Create a new branch
+
+git checkout <branch_name> - swtich to the new branch from master branch
+
+git merge <branch_name> - Merge two branches, you need to be in the "main" branch
+and merge with the secundary branch
