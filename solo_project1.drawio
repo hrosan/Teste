@@ -1,0 +1,350 @@
+<mxfile host="app.diagrams.net" modified="2023-06-27T16:06:45.787Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="uCEX-gm2m5CWlS_xYvF5" version="21.5.0" type="github" pages="5">
+  <diagram name="General" id="21dTgqOxmN1VZQwFpr4p">
+    <mxGraphModel dx="1478" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hPRgEw2ua0plYl6r71P_-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hPRgEw2ua0plYl6r71P_-1" target="hPRgEw2ua0plYl6r71P_-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hPRgEw2ua0plYl6r71P_-1" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="40" y="270" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="hPRgEw2ua0plYl6r71P_-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hPRgEw2ua0plYl6r71P_-2" target="hPRgEw2ua0plYl6r71P_-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Cutting&lt;br&gt;Process" link="data:page/id,hZncbsnmTIyHrArOsNUQ" id="hPRgEw2ua0plYl6r71P_-2">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+            <mxGeometry x="230" y="270" width="100" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="hPRgEw2ua0plYl6r71P_-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hPRgEw2ua0plYl6r71P_-3" target="hPRgEw2ua0plYl6r71P_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Bending&lt;br&gt;Process" link="data:page/id,rzVDDMm5P8K10I-1szEB" id="hPRgEw2ua0plYl6r71P_-3">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+            <mxGeometry x="420" y="270" width="100" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="hPRgEw2ua0plYl6r71P_-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hPRgEw2ua0plYl6r71P_-4" target="hPRgEw2ua0plYl6r71P_-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Stamping&lt;br&gt;Process" link="data:page/id,AfrmihTTI4SgnRzIUXhM" id="hPRgEw2ua0plYl6r71P_-4">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+            <mxGeometry x="600" y="270" width="100" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="fuChE2JU5vkZyvZI5C4r-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hPRgEw2ua0plYl6r71P_-5" target="fuChE2JU5vkZyvZI5C4r-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Finishing&lt;br&gt;Process" link="data:page/id,EFaKJsTZrbTuHUw1KVuT" id="hPRgEw2ua0plYl6r71P_-5">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+            <mxGeometry x="800" y="270" width="100" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="fuChE2JU5vkZyvZI5C4r-1" value="Ending" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="960" y="270" width="100" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="hZncbsnmTIyHrArOsNUQ" name="Cutting_Process">
+    <mxGraphModel dx="1478" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="f0T3Ajhc9cLZUWYdomPC-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f0T3Ajhc9cLZUWYdomPC-1" target="f0T3Ajhc9cLZUWYdomPC-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f0T3Ajhc9cLZUWYdomPC-1" value="Init" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="145" y="140" width="100" height="100" as="geometry" />
+        </mxCell>
+        <UserObject label="End&lt;br&gt;[Bending process]" link="data:page/id,rzVDDMm5P8K10I-1szEB" id="f0T3Ajhc9cLZUWYdomPC-3">
+          <mxCell style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+            <mxGeometry x="775" y="610" width="100" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="f0T3Ajhc9cLZUWYdomPC-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f0T3Ajhc9cLZUWYdomPC-4" target="f0T3Ajhc9cLZUWYdomPC-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f0T3Ajhc9cLZUWYdomPC-4" value="Taking the&lt;br&gt;Sheet metal" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="145" y="308" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="f0T3Ajhc9cLZUWYdomPC-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f0T3Ajhc9cLZUWYdomPC-5" target="f0T3Ajhc9cLZUWYdomPC-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f0T3Ajhc9cLZUWYdomPC-5" value="Setting&lt;br&gt;the sheet metal" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="315" y="308" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="f0T3Ajhc9cLZUWYdomPC-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f0T3Ajhc9cLZUWYdomPC-8" target="f0T3Ajhc9cLZUWYdomPC-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f0T3Ajhc9cLZUWYdomPC-8" value="Turning on&amp;nbsp;&lt;br&gt;th alert" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="475" y="308" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="f0T3Ajhc9cLZUWYdomPC-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f0T3Ajhc9cLZUWYdomPC-10" target="f0T3Ajhc9cLZUWYdomPC-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f0T3Ajhc9cLZUWYdomPC-10" value="Putting&amp;nbsp;&lt;br&gt;Lubricant" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="625" y="308" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="f0T3Ajhc9cLZUWYdomPC-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f0T3Ajhc9cLZUWYdomPC-12" target="f0T3Ajhc9cLZUWYdomPC-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f0T3Ajhc9cLZUWYdomPC-12" value="Turning on&lt;br&gt;the machine" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="775" y="308" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="f0T3Ajhc9cLZUWYdomPC-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f0T3Ajhc9cLZUWYdomPC-14" target="f0T3Ajhc9cLZUWYdomPC-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f0T3Ajhc9cLZUWYdomPC-14" value="Wainting till&amp;nbsp;&lt;br&gt;the cutting process finishes" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="925" y="308" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="f0T3Ajhc9cLZUWYdomPC-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f0T3Ajhc9cLZUWYdomPC-16" target="f0T3Ajhc9cLZUWYdomPC-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f0T3Ajhc9cLZUWYdomPC-16" value="Taking the&amp;nbsp;&lt;br&gt;metal sheet from the machine" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="925" y="458" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="f0T3Ajhc9cLZUWYdomPC-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f0T3Ajhc9cLZUWYdomPC-18" target="f0T3Ajhc9cLZUWYdomPC-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f0T3Ajhc9cLZUWYdomPC-18" value="Putting the metal sheet onto a pallet" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="775" y="458" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="f0T3Ajhc9cLZUWYdomPC-21" value="&lt;h1 style=&quot;font-size: 20px;&quot;&gt;Cutting Process&lt;/h1&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;First process about the factory case&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=20;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="480" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="rzVDDMm5P8K10I-1szEB" name="Bend_Process">
+    <mxGraphModel dx="2093" dy="890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0WnvgOAXlh-y_BAWXIL5-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m-1KzmsS1e2JZk0dSmzg-1" target="0WnvgOAXlh-y_BAWXIL5-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Init&lt;br&gt;[Cutting Process]" link="data:page/id,hZncbsnmTIyHrArOsNUQ" id="m-1KzmsS1e2JZk0dSmzg-1">
+          <mxCell style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+            <mxGeometry x="170" y="144" width="100" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="End&lt;br&gt;[Stamping Process]" link="data:page/id,AfrmihTTI4SgnRzIUXhM" id="0WnvgOAXlh-y_BAWXIL5-1">
+          <mxCell style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+            <mxGeometry x="505" y="584" width="100" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="0WnvgOAXlh-y_BAWXIL5-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0WnvgOAXlh-y_BAWXIL5-2" target="0WnvgOAXlh-y_BAWXIL5-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0WnvgOAXlh-y_BAWXIL5-2" value="Turning the machine on" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="950" y="434" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0WnvgOAXlh-y_BAWXIL5-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0WnvgOAXlh-y_BAWXIL5-3" target="0WnvgOAXlh-y_BAWXIL5-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0WnvgOAXlh-y_BAWXIL5-3" value="Taking the&lt;br&gt;metal sheet" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="330" y="284" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0WnvgOAXlh-y_BAWXIL5-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0WnvgOAXlh-y_BAWXIL5-4" target="0WnvgOAXlh-y_BAWXIL5-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0WnvgOAXlh-y_BAWXIL5-4" value="Wait&amp;nbsp; the bending process" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="800" y="284" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0WnvgOAXlh-y_BAWXIL5-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0WnvgOAXlh-y_BAWXIL5-5" target="0WnvgOAXlh-y_BAWXIL5-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0WnvgOAXlh-y_BAWXIL5-5" value="Remove the component from the bending machine" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="650" y="434" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0WnvgOAXlh-y_BAWXIL5-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0WnvgOAXlh-y_BAWXIL5-6" target="0WnvgOAXlh-y_BAWXIL5-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0WnvgOAXlh-y_BAWXIL5-6" value="Putting the component onto the pallet" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="505" y="434" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0WnvgOAXlh-y_BAWXIL5-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0WnvgOAXlh-y_BAWXIL5-7" target="0WnvgOAXlh-y_BAWXIL5-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0WnvgOAXlh-y_BAWXIL5-7" value="Wait the bending process" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="800" y="434" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0WnvgOAXlh-y_BAWXIL5-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0WnvgOAXlh-y_BAWXIL5-8" target="0WnvgOAXlh-y_BAWXIL5-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0WnvgOAXlh-y_BAWXIL5-8" value="Pallet&lt;br&gt;Positioning" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="170" y="284" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0WnvgOAXlh-y_BAWXIL5-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0WnvgOAXlh-y_BAWXIL5-9" target="0WnvgOAXlh-y_BAWXIL5-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0WnvgOAXlh-y_BAWXIL5-9" value="Puting the metal sheet&amp;nbsp; beside the bending machine" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="480" y="284" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0WnvgOAXlh-y_BAWXIL5-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0WnvgOAXlh-y_BAWXIL5-10" target="0WnvgOAXlh-y_BAWXIL5-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0WnvgOAXlh-y_BAWXIL5-10" value="Turning the machine on" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="640" y="284" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0WnvgOAXlh-y_BAWXIL5-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0WnvgOAXlh-y_BAWXIL5-11" target="0WnvgOAXlh-y_BAWXIL5-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0WnvgOAXlh-y_BAWXIL5-11" value="Flip the metal sheet" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="950" y="284" width="100" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="AfrmihTTI4SgnRzIUXhM" name="Stamping_process">
+    <mxGraphModel dx="1478" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bv6rGE4sShBK5yLHEe23-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bv6rGE4sShBK5yLHEe23-1" target="bv6rGE4sShBK5yLHEe23-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Init&lt;br&gt;[Bending Process]" link="data:page/id,rzVDDMm5P8K10I-1szEB" id="bv6rGE4sShBK5yLHEe23-1">
+          <mxCell style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+            <mxGeometry x="320" y="120" width="100" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="End&lt;br&gt;[Finishing Process]" link="data:page/id,EFaKJsTZrbTuHUw1KVuT" id="bv6rGE4sShBK5yLHEe23-2">
+          <mxCell style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+            <mxGeometry x="480" y="570" width="100" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="bv6rGE4sShBK5yLHEe23-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bv6rGE4sShBK5yLHEe23-3" target="bv6rGE4sShBK5yLHEe23-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bv6rGE4sShBK5yLHEe23-3" value="Waiting for stamping process" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="790" y="420" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bv6rGE4sShBK5yLHEe23-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bv6rGE4sShBK5yLHEe23-4" target="bv6rGE4sShBK5yLHEe23-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bv6rGE4sShBK5yLHEe23-4" value="Turn the machine on" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="940" y="420" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bv6rGE4sShBK5yLHEe23-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bv6rGE4sShBK5yLHEe23-5" target="bv6rGE4sShBK5yLHEe23-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bv6rGE4sShBK5yLHEe23-5" value="Add the safety lock" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="940" y="270" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bv6rGE4sShBK5yLHEe23-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bv6rGE4sShBK5yLHEe23-6" target="bv6rGE4sShBK5yLHEe23-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bv6rGE4sShBK5yLHEe23-6" value="Cleaning with compressed air" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="790" y="270" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bv6rGE4sShBK5yLHEe23-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bv6rGE4sShBK5yLHEe23-7" target="bv6rGE4sShBK5yLHEe23-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bv6rGE4sShBK5yLHEe23-7" value="Putting the component into the machine" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="640" y="270" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bv6rGE4sShBK5yLHEe23-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bv6rGE4sShBK5yLHEe23-8" target="bv6rGE4sShBK5yLHEe23-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bv6rGE4sShBK5yLHEe23-8" value="Taking th component" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="480" y="270" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bv6rGE4sShBK5yLHEe23-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bv6rGE4sShBK5yLHEe23-9" target="bv6rGE4sShBK5yLHEe23-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bv6rGE4sShBK5yLHEe23-9" value="Pallet&lt;br&gt;Positioning" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="320" y="270" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bv6rGE4sShBK5yLHEe23-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bv6rGE4sShBK5yLHEe23-10" target="bv6rGE4sShBK5yLHEe23-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bv6rGE4sShBK5yLHEe23-10" value="Putting the component onto the pallet" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="480" y="420" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bv6rGE4sShBK5yLHEe23-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bv6rGE4sShBK5yLHEe23-11" target="bv6rGE4sShBK5yLHEe23-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bv6rGE4sShBK5yLHEe23-11" value="Remove the component" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="640" y="420" width="100" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="EFaKJsTZrbTuHUw1KVuT" name="Finishing_Process">
+    <mxGraphModel dx="1570" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="629EQ2LHTiQntJeT6LW6-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="629EQ2LHTiQntJeT6LW6-1" target="629EQ2LHTiQntJeT6LW6-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Init&lt;br&gt;[Stamping Process]" link="data:page/id,AfrmihTTI4SgnRzIUXhM" id="629EQ2LHTiQntJeT6LW6-1">
+          <mxCell style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+            <mxGeometry x="210" y="50" width="100" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="629EQ2LHTiQntJeT6LW6-2" value="End&lt;br&gt;[Assembling Process]" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="370" y="520" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="629EQ2LHTiQntJeT6LW6-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="629EQ2LHTiQntJeT6LW6-3" target="629EQ2LHTiQntJeT6LW6-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="629EQ2LHTiQntJeT6LW6-3" value="Intalling the &lt;br&gt;glass" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="540" y="370" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="629EQ2LHTiQntJeT6LW6-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="629EQ2LHTiQntJeT6LW6-4" target="629EQ2LHTiQntJeT6LW6-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="629EQ2LHTiQntJeT6LW6-4" value="Putting PU&#39;s &lt;br&gt;glue" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="710" y="370" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="629EQ2LHTiQntJeT6LW6-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="629EQ2LHTiQntJeT6LW6-5" target="629EQ2LHTiQntJeT6LW6-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="629EQ2LHTiQntJeT6LW6-5" value="Install the doorknob" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="880" y="370" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="629EQ2LHTiQntJeT6LW6-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="629EQ2LHTiQntJeT6LW6-6" target="629EQ2LHTiQntJeT6LW6-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="629EQ2LHTiQntJeT6LW6-6" value="Cleaning the components" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="880" y="210" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="629EQ2LHTiQntJeT6LW6-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="629EQ2LHTiQntJeT6LW6-7" target="629EQ2LHTiQntJeT6LW6-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="629EQ2LHTiQntJeT6LW6-7" value="Sanding the sharp edges" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="710" y="210" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="629EQ2LHTiQntJeT6LW6-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="629EQ2LHTiQntJeT6LW6-8" target="629EQ2LHTiQntJeT6LW6-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="629EQ2LHTiQntJeT6LW6-8" value="Put&amp;nbsp; the component onto the bench" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="540" y="210" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="629EQ2LHTiQntJeT6LW6-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="629EQ2LHTiQntJeT6LW6-9" target="629EQ2LHTiQntJeT6LW6-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="629EQ2LHTiQntJeT6LW6-9" value="Taking the components" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="370" y="210" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="629EQ2LHTiQntJeT6LW6-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="629EQ2LHTiQntJeT6LW6-10" target="629EQ2LHTiQntJeT6LW6-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="629EQ2LHTiQntJeT6LW6-10" value="Pallet&amp;nbsp;&lt;br&gt;Positioning" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="210" y="210" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="629EQ2LHTiQntJeT6LW6-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="629EQ2LHTiQntJeT6LW6-19" target="629EQ2LHTiQntJeT6LW6-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="629EQ2LHTiQntJeT6LW6-19" value="Putting the component onto the pallet" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="370" y="370" width="100" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
